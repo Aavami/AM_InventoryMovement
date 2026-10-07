@@ -1,0 +1,18 @@
+# AL symbol packages (downloaded by VS Code)
+.alpackages/
+
+# Debugger snapshots
+.snapshots/
+
+# Per-developer VS Code state
+.vscode/launch.json
+.vscode/rad.json
+
+# Compiled packages and compiler output
+*.app
+*.g.xlf
+rad.json
+
+# Test results and logs
+TestResults*.xml
+*.log
